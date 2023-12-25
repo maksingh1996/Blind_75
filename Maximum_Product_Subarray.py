@@ -12,4 +12,4 @@ def MaxProdSubArray(arr):
         res = max(res, curMax)
     print(res)
 
-MaxProdSubArray([5])
+MaxProdSubArray([-1,-2,-3,0,4,5])
